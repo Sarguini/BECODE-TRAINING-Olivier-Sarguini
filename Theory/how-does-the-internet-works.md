@@ -27,3 +27,4 @@ You want send a ***email*** to your neighbour...
 - The ***email*** ride on the **wire** to the **modem**'s neighbour.
 - The **modem**'s neighbour gathers all *packages* of your ***email***.
 
+this theory file has been reviewed by <Jinane>
